@@ -9,3 +9,7 @@ Example of how to manipulate memory using Linux
   <li>Get Module Handle</li>
   <li>Multilevel Pointers</li>
  </ul>
+
+**How to compile (g++):**
+<br>
+<code>g++ -Wall Main.cpp Memory.cpp -o main</code>
